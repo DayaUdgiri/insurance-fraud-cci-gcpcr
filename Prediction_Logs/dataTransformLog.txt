@@ -19,3 +19,4 @@
 2023-01-15/16:08:30		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
 2023-01-15/17:25:24		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
 2023-01-15/17:27:26		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
+2023-01-16/00:01:58		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
