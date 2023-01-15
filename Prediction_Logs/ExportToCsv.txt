@@ -1,0 +1,20 @@
+2020-02-15/17:00:04		File exported successfully!!!
+2020-02-15/17:10:38		File exported successfully!!!
+2020-02-15/17:35:36		File exported successfully!!!
+2023-01-15/00:36:29		File exported successfully!!!
+2023-01-15/00:40:34		File exported successfully!!!
+2023-01-15/00:43:45		File exported successfully!!!
+2023-01-15/00:52:23		File exported successfully!!!
+2023-01-15/01:03:33		File exported successfully!!!
+2023-01-15/13:36:56		File exported successfully!!!
+2023-01-15/14:04:55		File exported successfully!!!
+2023-01-15/15:34:14		File exporting failed. Error : [Errno 13] Permission denied: 'Prediction_FileFromDB/InputFile.csv'
+2023-01-15/15:38:45		File exporting failed. Error : [Errno 13] Permission denied: 'Prediction_FileFromDB/InputFile.csv'
+2023-01-15/15:41:12		File exporting failed. Error : [Errno 13] Permission denied: 'Prediction_FileFromDB/InputFile.csv'
+2023-01-15/15:49:12		File exported successfully!!!
+2023-01-15/15:54:09		File exported successfully!!!
+2023-01-15/16:02:14		File exported successfully!!!
+2023-01-15/16:05:18		File exported successfully!!!
+2023-01-15/16:09:53		File exported successfully!!!
+2023-01-15/17:27:00		File exported successfully!!!
+2023-01-15/17:29:03		File exported successfully!!!
